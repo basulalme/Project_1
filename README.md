@@ -1,2 +1,2 @@
-# Jarvis
-project for home automation
+# Friday
+project for home automation 
