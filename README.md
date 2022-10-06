@@ -1,2 +1,2 @@
 1. Problem Statment 
->>>To predict 
+>>>To predict Weather Conditions
